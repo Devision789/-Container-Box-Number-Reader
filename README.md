@@ -35,27 +35,16 @@ This project is a system designed to read and interpret the numbers on container
     cd container-box-number-reader
     ```
 
-2. Create and activate a virtual environment (optional but recommended):
-    ```sh
-    python3 -m venv env
-    source env/bin/activate   # On Windows, use `env\Scripts\activate`
-    ```
 
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
+2. Open file in colab / kaggle / jupyter notebook
 
 ## Usage
 
-1. Prepare your image dataset in the `images` folder.
+1. Prepare your image dataset 
 
-2. Run the main script to start the number reading process:
-    ```sh
-    python main.py
-    ```
+2. Run the script .ipynb
 
-3. The results will be saved in the `output` folder.
+3. The results will be saved in the excel
 
 ## Contributing
 
